@@ -182,12 +182,12 @@ const Ecommerce = () => {
           </div>
           <div className="flex justify-between items-center mt-5 border-t-1 border-color">
             <div className="mt-3">
-              <Button
+              {/* <Button
                 color="white"
                 bgColor={currentColor}
                 text="Add"
                 borderRadius="10px"
-              />
+              /> */}
             </div>
 
             <p className="text-gray-400 text-sm">36 Recent Transactions</p>
@@ -308,19 +308,18 @@ const Ecommerce = () => {
               alt=""
             />
             <div className="mt-8">
-              <p className="font-semibold text-lg">React 18 coming soon!</p>
-              <p className="text-gray-400 ">By Johnathan Doe</p>
+              <p className="font-semibold texfolkst-lg">To the moon and back!</p>
+              <p className="text-gray-400 ">By Akash Bhadouria</p>
               <p className="mt-8 text-sm text-gray-400">
-                This will be the small description for the news you have shown
-                here. There could be some great info.
+                This is your door to the new world, come explore with the geeks and curious .
               </p>
               <div className="mt-3">
-                <Button
+                {/* <Button
                   color="white"
                   bgColor={currentColor}
                   text="Read More"
                   borderRadius="10px"
-                />
+                /> */}
               </div>
             </div>
           </div>
